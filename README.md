@@ -1,4 +1,4 @@
-# Exploring Gradient Descent and BCGD Methods for Data Labelling in a SemiSupervised Learning Context
+# Exploring Gradient Descent and BCGD Methods for Data Labelling in a Semi-Supervised Learning Context
 
 This project analyses the use of Gradient Descent (GD) and Block Coordinate Gradient Descent (BCGD) methods for data labelling in a semi-supervised learning context.
 
