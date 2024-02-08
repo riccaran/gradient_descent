@@ -2,7 +2,7 @@
 
 This project analyses the use of Gradient Descent (GD) and Block Coordinate Gradient Descent (BCGD) methods for data labelling in a semi-supervised learning context.
 
-## Main files
+## Files
 
 ### `test_part.ipynb`
 
